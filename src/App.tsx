@@ -1,9 +1,8 @@
 import React from 'react';
-// import logo from './logo.svg';
-import './App.css';
 import * as am4core from "@amcharts/amcharts4/core";
-// import * as am4charts from "@amcharts/amcharts4/charts";
 import * as am4plugins_sunburst from "@amcharts/amcharts4/plugins/sunburst"; 
+
+import './App.css';
 
 let chart = am4core.create("chartdiv", am4plugins_sunburst.Sunburst); 
 
@@ -68,7 +67,6 @@ chart.data = [{
   ]
 }];
 
-// Define data fields
 chart.dataFields.value = "value";
 chart.dataFields.name = "name";
 chart.dataFields.children = "children";
