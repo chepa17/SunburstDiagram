@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/chepa17/SunburstDiagram/static/css/main.5b0948eb.chunk.css",
+    "main.js": "/chepa17/SunburstDiagram/static/js/main.56b26219.chunk.js",
+    "main.js.map": "/chepa17/SunburstDiagram/static/js/main.56b26219.chunk.js.map",
+    "runtime-main.js": "/chepa17/SunburstDiagram/static/js/runtime-main.2bc3c3ab.js",
+    "runtime-main.js.map": "/chepa17/SunburstDiagram/static/js/runtime-main.2bc3c3ab.js.map",
+    "xlsx.js": "/chepa17/SunburstDiagram/static/js/xlsx.6f727fbd.chunk.js",
+    "xlsx.js.map": "/chepa17/SunburstDiagram/static/js/xlsx.6f727fbd.chunk.js.map",
+    "static/js/3.07687aef.chunk.js": "/chepa17/SunburstDiagram/static/js/3.07687aef.chunk.js",
+    "static/js/3.07687aef.chunk.js.map": "/chepa17/SunburstDiagram/static/js/3.07687aef.chunk.js.map",
+    "static/js/4.70de45cf.chunk.js": "/chepa17/SunburstDiagram/static/js/4.70de45cf.chunk.js",
+    "static/js/4.70de45cf.chunk.js.map": "/chepa17/SunburstDiagram/static/js/4.70de45cf.chunk.js.map",
+    "static/js/5.af6dc293.chunk.js": "/chepa17/SunburstDiagram/static/js/5.af6dc293.chunk.js",
+    "static/js/5.af6dc293.chunk.js.map": "/chepa17/SunburstDiagram/static/js/5.af6dc293.chunk.js.map",
+    "static/js/6.2b856134.chunk.js": "/chepa17/SunburstDiagram/static/js/6.2b856134.chunk.js",
+    "static/js/6.2b856134.chunk.js.map": "/chepa17/SunburstDiagram/static/js/6.2b856134.chunk.js.map",
+    "index.html": "/chepa17/SunburstDiagram/index.html",
+    "precache-manifest.855539b553b91ef61b9f48044c6a0de0.js": "/chepa17/SunburstDiagram/precache-manifest.855539b553b91ef61b9f48044c6a0de0.js",
+    "service-worker.js": "/chepa17/SunburstDiagram/service-worker.js",
+    "static/css/main.5b0948eb.chunk.css.map": "/chepa17/SunburstDiagram/static/css/main.5b0948eb.chunk.css.map",
+    "static/js/4.70de45cf.chunk.js.LICENSE.txt": "/chepa17/SunburstDiagram/static/js/4.70de45cf.chunk.js.LICENSE.txt",
+    "static/js/5.af6dc293.chunk.js.LICENSE.txt": "/chepa17/SunburstDiagram/static/js/5.af6dc293.chunk.js.LICENSE.txt",
+    "static/js/6.2b856134.chunk.js.LICENSE.txt": "/chepa17/SunburstDiagram/static/js/6.2b856134.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bc3c3ab.js",
+    "static/js/4.70de45cf.chunk.js",
+    "static/css/main.5b0948eb.chunk.css",
+    "static/js/main.56b26219.chunk.js"
+  ]
+}
